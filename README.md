@@ -8,16 +8,15 @@ Our vision for CONTESTS is to provide an easy & fast tool for programmers to acc
 
 Supported sites:
 1. Codeforces
-2. Codeforces::Gym
-3. TopCoder
-4. AtCoder
-5. CS Academy
-6. CodeChef
-7. HackerRank
-8. HackerEarth
-9. Kick Start
-10. LeetCode
-11. A2OJ
+2. TopCoder
+3. AtCoder
+4. CS Academy
+5. CodeChef
+6. HackerRank
+7. HackerEarth
+8. Kick Start
+9. LeetCode
+10. A2OJ
 
 Credit goes to [KONTESTS](https://kontests.net) for providing the contests data through their APIs.
 
